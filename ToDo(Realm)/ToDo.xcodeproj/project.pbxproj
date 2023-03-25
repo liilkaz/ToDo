@@ -59,6 +59,7 @@
 		753F320929C72EEE00C752A7 = {
 			isa = PBXGroup;
 			children = (
+				753CB30E29CDDE5B00993390 /* README.md */,
 				753F321429C72EEE00C752A7 /* ToDo */,
 				753F321329C72EEE00C752A7 /* Products */,
 				86BBD1BCFBBE73C3D63D4A21 /* Pods */,
@@ -84,7 +85,6 @@
 				753F322329C72EEE00C752A7 /* Info.plist */,
 				753F322D29C7814800C752A7 /* DataModel */,
 				753F323029C7819E00C752A7 /* Controllers */,
-				753CB30E29CDDE5B00993390 /* README.md */,
 			);
 			path = ToDo;
 			sourceTree = "<group>";
