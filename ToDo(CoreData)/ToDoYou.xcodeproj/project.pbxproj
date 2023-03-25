@@ -46,6 +46,7 @@
 		753F320929C72EEE00C752A7 = {
 			isa = PBXGroup;
 			children = (
+				753CB30C29CDDE2800993390 /* README.md */,
 				753F321429C72EEE00C752A7 /* ToDoYou */,
 				753F321329C72EEE00C752A7 /* Products */,
 			);
@@ -69,7 +70,6 @@
 				753F322329C72EEE00C752A7 /* Info.plist */,
 				753F322D29C7814800C752A7 /* DataModel */,
 				753F323029C7819E00C752A7 /* Controllers */,
-				753CB30C29CDDE2800993390 /* README.md */,
 			);
 			path = ToDoYou;
 			sourceTree = "<group>";
